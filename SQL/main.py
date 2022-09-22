@@ -1,7 +1,7 @@
 import psycopg2
 
 con = psycopg2.connect(host="localhost", database="aula_02",
-                       user="hedris", password="Binfae@45")
+                       user="hedris", password="")
 
 cur = con.cursor()
 
