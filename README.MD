@@ -1,9 +1,15 @@
-## Python moderno e atualizado
-
-* modulo para treinamento com python, e futuramente irei postar algumas aulas sobre python 
-
-## Atualização de alguns estudos em python
+<div style="display: inline_block">
+    <img aling="center" alt="Python" src="img.jpeg">
+</div>
 
 
-* motivo do book, é trazer estudos descomplicados com python, e sendo extremamente agil e eficaz sem enrolação.
+## Seja bem vindo á PYTHON2.0
 
+### Aqui tem alguns rascunhos meus sobre python
+
+* Módulos importante para o meu dia á dia 
+* Alguns erros sobre sintax de alguns projeto que eu acabo lidando e vou anotando
+
+### Passando ao tempo sempre vou atualizando este módulo, então desconsidere qualquer padrão de projeto aqui
+
+- Lembre-se é apenas um esboço
