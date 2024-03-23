@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-    <img aling="center" alt="Python" src="img.jpeg">
+    <img aling="center" alt="Python" src="image/img.jpeg">
 </div>
 
 
