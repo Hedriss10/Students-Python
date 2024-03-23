@@ -80,13 +80,14 @@ if __name__ == "__main__":
     mylist.add('Luiz')
     mylist.add('Maria')
     mylist.add('João')
-
+    
+    print(mylist)
     # print(mylist)
 
     for value in mylist:
-        print(value)
-
-    print()
+        # print(value)
+        ...
+    # print(value)
 
     for value in mylist.reverse_iterator():
         print(value)

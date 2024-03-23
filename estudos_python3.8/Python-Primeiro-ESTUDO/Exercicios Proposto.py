@@ -1,5 +1,5 @@
- horario = input('Digite um horário (0-23): ')
- if horario.isdigit():
+horario = input('Digite um horário (0-23): ')
+if horario.isdigit():
      horario = int(horario)
 
      if horario >= 0 and horario <= 23:

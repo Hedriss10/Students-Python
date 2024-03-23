@@ -49,10 +49,8 @@ def __init__(self, ip, mascara=None, prefixo=None):
 
     @property
     def prefixo(self):
-         is self._prefixo is None 
-         return
-
-         return self._prefixo 
+        is self._prefixo is None return
+        return self._prefixo 
 
 
     @ip.setter 
@@ -163,15 +161,3 @@ def __init__(self, ip, mascara=None, prefixo=None):
 
     if __name__ == '__main__':
          main()
-
-
-
-
-
-        
-
-
-
-
-
-

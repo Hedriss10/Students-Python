@@ -13,3 +13,5 @@
 ### Passando ao tempo sempre vou atualizando este módulo, então desconsidere qualquer padrão de projeto aqui
 
 - Lembre-se é apenas um esboço
+
+## Projetando e atualizando o repositório de Python 
